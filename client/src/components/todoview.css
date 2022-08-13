@@ -1,0 +1,71 @@
+.maincontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between
+}
+
+
+.bodypart{
+    display: flex;
+    flex-direction: row;
+   
+}
+
+.headerpart{
+    border: 4px solid yellowgreen;
+    width: 100%;
+    height: 100px;
+    text-align: end;
+}
+
+.sidenav{
+    
+    width: 15%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 450px;
+    background-color: yellowgreen;
+    
+}
+
+.todotxt{
+    
+    color: #1799e5;
+   
+}
+.listpart{
+    /* display: flex;
+    justify-content: center; */
+   
+    width: 80%;
+    
+}
+
+.addbtn{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.logoubtn{
+    font-weight: bold;
+    background-color:Transparent ;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer ;
+   font-size: large ;
+   
+    
+}
+
+.addtoobtn{
+    font-weight: bold;
+    background-color:Transparent ;
+    background-repeat: no-repeat;
+    border: 4px solid purple;
+    cursor: pointer ;
+   font-size: large ;
+   padding: 4px;
+   color: purple;
+}

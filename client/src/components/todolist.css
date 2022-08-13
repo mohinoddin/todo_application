@@ -1,0 +1,12 @@
+.thtext , .tdtext{
+    width: 150px;
+    text-align: start;
+    height:25px;
+}
+
+.thtext{
+    background-color: rgb(129, 129, 243);
+    color: azure;
+    font-size: large;
+    font-weight: bold;
+}

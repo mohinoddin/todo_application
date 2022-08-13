@@ -1,0 +1,80 @@
+
+.logincontainer{
+    display: grid;
+    place-items: center;
+    width: 100%;
+   height: 100vh;
+    background-color: #ffaf8a;
+}
+.logbox{
+        width: 564px;
+        height:550px;
+        margin-top: 80px;
+        background-color: white;
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 10px;
+        text-align: center;
+ 
+}
+
+.paragraph2{
+    margin-top:40px
+}
+.logininput1{
+    margin-left: 48px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-right: 45px;
+    height:54px;
+    width: 450px;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px;
+    border-color: rgba(190, 184, 184, 0.5);
+    padding-left: 10px;
+}
+.logininput2{
+    margin-left: 53px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-right: 45px;
+    height:54px;
+    width: 450px;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px;
+    border-color: rgba(190, 184, 184, 0.5);
+    padding-left: 10px;
+}
+.input-wrapper{
+  display: flex;
+}
+
+.signin{
+    height: 54px;
+    width: 469px;
+    margin-bottom:25px ;
+    margin-left: 15px;
+    margin-top: 30px;
+     color: white;
+     background-color: #9412fd;
+     border: 2px solid;
+     border-radius: 5px; 
+     font-size: 15px;
+}
+
+.btn{
+  
+    margin-right:auto;
+    font-weight: bolder;
+    color: #b66e4c;
+    cursor: pointer; 
+    margin-left: 25px;
+    
+}
+.pandu{
+    margin-top: 25px;
+    margin-bottom: 40px;
+    display:flex
+    
+}
